@@ -1,2 +1,1 @@
-# PrepCourse-Henrry
-Este es un repositorio  de la lección número2 de herry
+Este rpyecto es una prueba de como crear un repositorio y clonarlo desde github a mi escritorio delacomputadora. 
